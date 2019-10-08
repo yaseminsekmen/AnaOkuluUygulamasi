@@ -1,0 +1,26 @@
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\bin\Debug\AnaOkuluUygulamasi.exe.config
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\bin\Debug\AnaOkuluUygulamasi.exe
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\bin\Debug\AnaOkuluUygulamasi.pdb
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.Cocuklar.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.Form1.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.Properties.Resources.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.csproj.GenerateResource.Cache
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.exe
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.pdb
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.Hoca.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.Birim.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.Sube.resources
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\bin\Debug\AnaOkuluUygulamasi.exe.config
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.exe
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.pdb
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\bin\Debug\AnaOkuluUygulamasi.exe
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\bin\Debug\AnaOkuluUygulamasi.pdb
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.csprojResolveAssemblyReference.cache
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.Sube.resources
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.Birim.resources
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.Cocuklar.resources
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.Form1.resources
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.Hoca.resources
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.Properties.Resources.resources
+E:\smartpro\AnaOkuluUygulamasi\AnaOkuluUygulamasi\obj\Debug\AnaOkuluUygulamasi.csproj.GenerateResource.Cache
